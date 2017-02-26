@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray">
+
+    <TextView
+        android:text="VIP List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4CAF50"
+        android:textSize="24sp" />
+
+    <TextView
+        android:text="Kunal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4CAF50"
+        android:textSize="24sp" />
+
+ 
+    
+    <ImageView
+    android:src="@drawable/cake"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:scaleType="centerCrop"
+    
+    android:text=" Happy birthday omer"
+    android:textAllCaps="true"
+    android:textStyle="bold"
+    android:textSize="30sp"
+    android:textScaleX="10dp"
+    android:textColor="#E91E63"
+    
+    />
+ 
+
+</LinearLayout>
